@@ -1,0 +1,7 @@
+{
+  "name": "adventofcode",
+  "type": "module",
+  "version": "1.0.0",
+  "author": "Effy Elden <dev@effy.is>",
+  "license": "MIT"
+}
